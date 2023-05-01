@@ -4,6 +4,8 @@
 * автоматический запуск тестов,
 * обновление образов на Docker Hub,
 * автоматический деплой на боевой сервер при пуше в главную ветку main.
+
+![example workflow](https://github.com/Rederickmind/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
   
 # Описание Группового проекта YaMDb
 
