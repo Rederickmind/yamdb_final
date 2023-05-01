@@ -15,7 +15,6 @@ UserMeSerializer   -- Сериализатор для работы с данны
 
 from rest_framework import serializers
 from rest_framework.validators import UniqueValidator
-
 from reviews.models import Categories, Comment, Genre, Review, Title
 from reviews.validators import validate_one_to_ten
 from users.models import User

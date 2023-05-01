@@ -5,7 +5,6 @@ TitleFilter -- Кастом фильтр для модели title.
 """
 
 from django_filters import rest_framework as filters
-
 from reviews.models import Title
 
 

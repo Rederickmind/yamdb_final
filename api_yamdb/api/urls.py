@@ -1,11 +1,10 @@
 """URL-ы приложения api."""
 
-from django.urls import include, path
-from rest_framework.routers import DefaultRouter
-
 from api.views import (CategoryViewSet, CommentViewSet, GenreViewSet,
                        ReviewViewSet, SignUpView, TitleViewSet,
                        TokenObtainView, UserViewSet)
+from django.urls import include, path
+from rest_framework.routers import DefaultRouter
 
 router_v1 = DefaultRouter()
 router_v1.register('titles', TitleViewSet)
