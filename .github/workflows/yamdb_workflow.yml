@@ -55,6 +55,7 @@ jobs:
         with:
           push: true
           tags: rederickmind/yamdb_final:latest
+          context: ./api_yamdb/
 
   # deploy:
   #   name: Deploy on Server on Yandex Cloud
