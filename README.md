@@ -6,6 +6,8 @@
 * автоматический деплой на боевой сервер при пуше в главную ветку main.
 
 ![example workflow](https://github.com/Rederickmind/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+
+В данный момент workflow отображается как failing, потому что виртуальная машина для сайта отключчена чтобы не платить за аренду.
   
 # Описание Группового проекта YaMDb
 
