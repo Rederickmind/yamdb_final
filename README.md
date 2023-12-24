@@ -6,8 +6,6 @@
 * автоматический деплой на боевой сервер при пуше в главную ветку main.
 
 ![example workflow](https://github.com/Rederickmind/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
-
-Проект развернут по адресу http://158.160.19.189/
   
 # Описание Группового проекта YaMDb
 
