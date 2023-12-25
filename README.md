@@ -24,7 +24,7 @@
 
 ![example workflow](https://github.com/Rederickmind/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
-В данный момент workflow отображается как failing, потому что виртуальная машина для сайта отключчена чтобы не платить за аренду.
+В данный момент workflow отображается как failing, потому что виртуальная машина для сайта отключена чтобы не платить за аренду.
 
 # Над проектом работали:
 
